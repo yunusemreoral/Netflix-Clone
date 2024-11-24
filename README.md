@@ -7,7 +7,8 @@
 <li>CSS3</li>
 <li>Responsive Design</li>
 
-
-
 # Ekran Görüntüsü 🎥
 <img src="netflix-clone.gif" width="auto"> 
+
+# İletişim 📩
+yunusemreoral@hotmail.com.tr
