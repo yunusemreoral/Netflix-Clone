@@ -1,7 +1,13 @@
-# Netflix-Clone
+# Netflix Klon Site Arayüzü 🎬
 
-Bu proje Netflix Film sitesi arayüzü klonu içerir.Modern yapısı,kullanıcı dostu,kolay arayüzü ile film severler için iyi bir deneyim sunar. 
+Bu proje HTML5 ve CSS3 kullanılarak oluşturulmuş Netflix Film sitesi arayüzü klonu içerir.Modern yapısı,şık tasarımı,kolay arayüzü ile kullanıcılara üyelik oluşturma,oturum açma özelliği sayesinde film,dizi ve belgesellere erişerek güzel vakit geçirilmesine olanak sağlar.Ayrıca duyarlı tasarımı ile telefon,tablet,bilgisayar,televizyon üzerinden kolay erişim olanağı sunar.
+
+# Kullanılan Teknolojiler 🎨
+<li>HTML5</li>
+<li>CSS3</li>
+<li>Responsive Design</li>
 
 
-# Preview
+
+# Ekran Görüntüsü 🎥
 <img src="netflix-clone.gif" width="auto"> 
